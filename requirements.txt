@@ -7,7 +7,7 @@ django-heroku==0.3.1
 django-phone-field==1.8.1
 django-tastypie==0.14.3
 django-test==0.4030
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 gunicorn==20.0.4
 isort==4.3.21
 lazy-object-proxy==1.4.3
